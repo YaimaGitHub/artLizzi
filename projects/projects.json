@@ -1,0 +1,35 @@
+[
+  
+  {
+    "name": "PPE-detection-system-for-workers",
+    "desc": "A deep learning-based project to enhance workplace safety by detecting Personal Protective Equipment (PPE) like helmets, vests, masks, and gloves in real-time. ",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/DhanashriDagade/PPE-detection-system-for-workers/blob/main/images/Screenshot1.png",
+      "code": "https://github.com/DhanashriDagade/PPE-detection-system-for-workers?tab=readme-ov-file"
+    }
+  },
+  {
+    "name": "pune-travel-website",
+    "desc": "Pune Travel Guide Welcome to the Pune Travel Guide repository! This project is dedicated to showcasing the best of Pune, a city that beautifully blends history, culture, and modernity.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "http://127.0.0.1:5501/index.html",
+      "code": "https://github.com/DhanashriDagade/pune-travel-website"
+    }
+  },
+  {
+    "name": "Algorithm-Visualizar",
+    "desc": "The Algorithm The Visualizer is an interactive project that uses illustrations to make complicated algorithms easier to understand.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "http://127.0.0.1:5501/Algorithm-Visualizer-master/index.html",
+      "code": "https://github.com/DhanashriDagade/Algorithm-Visualizar"
+    }
+  }
+  
+
+]
