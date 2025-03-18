@@ -48,7 +48,7 @@ $(document).ready(function () {
                 alert("Form Submitted Successfully");
             }, function (error) {
                 console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
+                alert("¡Falló el envío del formulario! Inténtalo de nuevo.");
             });
         event.preventDefault();
     });
