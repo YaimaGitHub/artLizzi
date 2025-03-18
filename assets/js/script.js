@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Bienvenido | Lizzi Nails";
+            document.title = "Bienvenido | Lizziy's Nails";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
